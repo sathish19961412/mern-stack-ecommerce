@@ -1,0 +1,19 @@
+{
+  "name": "sathishcart",
+  "version": "1.0.0",
+  "description": "ecommerce to the mern stack development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathish19961412/mern-stack-ecommerce.git"
+  },
+  "author": "sathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathish19961412/mern-stack-ecommerce/issues"
+  },
+  "homepage": "https://github.com/sathish19961412/mern-stack-ecommerce#readme"
+}
